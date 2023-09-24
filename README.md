@@ -37,14 +37,4 @@ Here are some screenshots from the ETL process:
 
 ![Screenshot 2](https://github.com/mohamedessamanwar/ETL-Telecom-SSIS/blob/main/Annotation%202023-07-20%20194043.png)
 
-## Contributing
 
-If you would like to contribute to this project, feel free to open issues, submit pull requests, or provide feedback. We welcome contributions from the community.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Thank you for checking out the ETL-Telecom project! If you have any questions or need assistance, please don't hesitate to reach out.
