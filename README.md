@@ -10,6 +10,5 @@ The company needs that data be processed to mapping rules before being stored in
 ![Alt Text](https://raw.githubusercontent.com/mohamedessamanwar/ETL-Telecom-SSIS/main/Annotation%202023-07-20%20193914.png)
 
 
-
-![Alt Text]([https://raw.githubusercontent.com/mohamedessamanwar/ETL-Telecom-SSIS/main/Annotation%202023-07-20%20193914.png](https://github.com/mohamedessamanwar/ETL-Telecom-SSIS/blob/main/Annotation%202023-07-20%20194043.png)https://github.com/mohamedessamanwar/ETL-Telecom-SSIS/blob/main/Annotation%202023-07-20%20194043.png)
+![Alt Text](https://github.com/mohamedessamanwar/ETL-Telecom-SSIS/blob/main/Annotation%202023-07-20%20194043.png)
 
